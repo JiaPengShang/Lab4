@@ -1,0 +1,53 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "dateOfBirth": "1980-05-15",
+        "preferences": {
+            "theme": "dark",
+            "language": "English",
+            "notifications": true
+        },
+        "address": {
+            "street": "123 Maple Street",
+            "city": "Springfield",
+            "state": "IL",
+            "zipCode": "62704"
+        }
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "email": "jane.doe@example.com",
+        "dateOfBirth": "1982-08-30",
+        "preferences": {
+            "theme": "light",
+            "language": "Spanish",
+            "notifications": false
+        },
+        "address": {
+            "street": "456 Oak Avenue",
+            "city": "Libertyville",
+            "state": "IL",
+            "zipCode": "60048"
+        }
+    },
+    {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "email": "alice.johnson@example.com",
+        "dateOfBirth": "1990-11-12",
+        "preferences": {
+            "theme": "classic",
+            "language": "French",
+            "notifications": true
+        },
+        "address": {
+            "street": "789 Pine Lane",
+            "city": "Champaign",
+            "state": "IL",
+            "zipCode": "61820"
+        }
+    }
+]
